@@ -10,5 +10,5 @@
  - Natali Itzhak
  - Orpaz Goldstein
  - avishay hajbi
- - ofir agahi
  - Elad silberring
+ - Ofir Aghai
