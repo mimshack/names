@@ -3,4 +3,5 @@
  - Yuval Adam
  
 ## Students
- - First student
+ - Gil Iaskin
+ - Natali Itzhak
